@@ -17,6 +17,11 @@ app.get('/api/ping', (req, res) => {
   res.json({ok:true, time: new Date()})
 })
 
+app.get("/api/status", (req, res) => {
+  res.json({ status: "ok" });
+});
+
+
 // Admin upload placeholder (single file upload: replace a JSON)
 const upload = multer({ dest: 'uploads/' })
 app.post('/api/admin/upload', upload.single('file'), (req, res) => {

@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What is the powerhouse of the cell?",
+    "options": [
+      "A. Ribosome",
+      "B. Nucleus",
+      "C. Mitochondria",
+      "D. Endoplasmic Reticulum",
+      "E. Lysosome"
+    ],
+    "correct": "C",
+    "topic": "biology"
+  },
+  {
+    "question": "Water's chemical formula is?",
+    "options": [
+      "A. H2O",
+      "B. CO2",
+      "C. O2",
+      "D. H2",
+      "E. CH4"
+    ],
+    "correct": "A",
+    "topic": "chemistry"
+  }
+]

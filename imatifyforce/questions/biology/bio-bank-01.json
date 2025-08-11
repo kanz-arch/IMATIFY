@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What pigment gives plants green color?",
+    "options": [
+      "A. Hemoglobin",
+      "B. Chlorophyll",
+      "C. Melanin",
+      "D. Keratin",
+      "E. Collagen"
+    ],
+    "correct": "B",
+    "topic": "biology"
+  },
+  {
+    "question": "DNA stands for?",
+    "options": [
+      "A. Deoxyribonucleic acid",
+      "B. Ribonucleic acid",
+      "C. Deoxyribose nucleic acid",
+      "D. Nucleic acid",
+      "E. None"
+    ],
+    "correct": "A",
+    "topic": "biology"
+  }
+]

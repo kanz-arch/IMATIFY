@@ -1,0 +1,26 @@
+[
+  {
+    "question": "If all cats are animals and some animals are black, can we conclude some cats are black?",
+    "options": [
+      "A. Yes",
+      "B. No",
+      "C. Only if stated",
+      "D. Can't tell",
+      "E. None"
+    ],
+    "correct": "D",
+    "topic": "logical"
+  },
+  {
+    "question": "Find next in sequence: 2,4,8,16,...",
+    "options": [
+      "A. 18",
+      "B. 24",
+      "C. 32",
+      "D. 20",
+      "E. 30"
+    ],
+    "correct": "C",
+    "topic": "logical"
+  }
+]

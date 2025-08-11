@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Atomic number of Carbon is?",
+    "options": [
+      "A. 6",
+      "B. 12",
+      "C. 8",
+      "D. 2",
+      "E. 14"
+    ],
+    "correct": "A",
+    "topic": "chemistry"
+  },
+  {
+    "question": "Formula of table salt is?",
+    "options": [
+      "A. KCl",
+      "B. NaCl",
+      "C. H2O",
+      "D. CO2",
+      "E. CaCl2"
+    ],
+    "correct": "B",
+    "topic": "chemistry"
+  }
+]

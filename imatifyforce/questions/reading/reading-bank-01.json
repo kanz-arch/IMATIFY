@@ -1,0 +1,17 @@
+{
+  "passage": "Photosynthesis is the process ... (demo passage).",
+  "questions": [
+    {
+      "question": "Photosynthesis primarily occurs in which organelle?",
+      "options": [
+        "A. Mitochondria",
+        "B. Nucleus",
+        "C. Chloroplast",
+        "D. Ribosome",
+        "E. Golgi"
+      ],
+      "correct": "C"
+    }
+  ],
+  "topic": "reading"
+}

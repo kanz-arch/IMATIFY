@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Which gas do plants produce?",
+    "options": [
+      "A. Oxygen",
+      "B. Carbon dioxide",
+      "C. Nitrogen",
+      "D. Methane",
+      "E. Hydrogen"
+    ],
+    "correct": "A",
+    "topic": "biology"
+  },
+  {
+    "question": "pH of pure water at 25\u00b0C is?",
+    "options": [
+      "A. 1",
+      "B. 7",
+      "C. 14",
+      "D. 0",
+      "E. 10"
+    ],
+    "correct": "B",
+    "topic": "chemistry"
+  }
+]

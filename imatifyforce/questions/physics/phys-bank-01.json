@@ -1,0 +1,26 @@
+[
+  {
+    "question": "SI unit of force is?",
+    "options": [
+      "A. Joule",
+      "B. Watt",
+      "C. Newton",
+      "D. Pascal",
+      "E. Volt"
+    ],
+    "correct": "C",
+    "topic": "physics"
+  },
+  {
+    "question": "Speed of light symbol is?",
+    "options": [
+      "A. v",
+      "B. c",
+      "C. s",
+      "D. l",
+      "E. k"
+    ],
+    "correct": "B",
+    "topic": "physics"
+  }
+]

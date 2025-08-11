@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Derivative of x^2 is?",
+    "options": [
+      "A. 2x",
+      "B. x",
+      "C. x^2",
+      "D. 1",
+      "E. 0"
+    ],
+    "correct": "A",
+    "topic": "maths"
+  },
+  {
+    "question": "Integral of 1/x dx is?",
+    "options": [
+      "A. ln|x| + C",
+      "B. x + C",
+      "C. 1/x + C",
+      "D. e^x + C",
+      "E. 0"
+    ],
+    "correct": "A",
+    "topic": "maths"
+  }
+]

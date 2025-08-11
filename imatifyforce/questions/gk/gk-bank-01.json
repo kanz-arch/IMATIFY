@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Capital of France?",
+    "options": [
+      "A. Berlin",
+      "B. Madrid",
+      "C. Paris",
+      "D. Rome",
+      "E. London"
+    ],
+    "correct": "C",
+    "topic": "gk"
+  },
+  {
+    "question": "Which planet is known as Red Planet?",
+    "options": [
+      "A. Earth",
+      "B. Mars",
+      "C. Venus",
+      "D. Jupiter",
+      "E. Saturn"
+    ],
+    "correct": "B",
+    "topic": "gk"
+  }
+]
